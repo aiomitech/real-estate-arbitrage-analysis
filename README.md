@@ -52,8 +52,6 @@ real-estate-arbitrage-analysis/
 │
 ├──/ data
     ── real_estate_data.csv                                                        # Sample dataset
-├──/ project
-    ── Entry-Level Data Science Project - Real Estate Arbitrage with Python.md     # project outline
 ├── Real_Estate_Arbitrage.ipynb # Jupyter notebook for the project
 ├── requirements.txt            # Python dependencies
 └── README.md                   # Project documentation
