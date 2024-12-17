@@ -32,12 +32,7 @@ This beginner-friendly project introduces data science and Python programming th
    - Open the project in Google Colab.
    - Upload the `real_estate_data.csv` file when prompted.
 
-3. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Run the Jupyter notebook:**
+3. **Run the Jupyter notebook:**
    - Open the `.ipynb` file in Google Colab.
    - Follow the instructions in the notebook.
 
