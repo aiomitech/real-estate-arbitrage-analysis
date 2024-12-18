@@ -1,5 +1,7 @@
 # Real Estate Arbitrage Concepts
 
+Real estate arbitrage is an investment strategy where individuals or entities capitalize on price or value differences in the real estate market to generate profits. This approach involves leveraging variations in rent, property prices, market demand, or operational efficiencies between two or more locations or platforms. The fundamental principle is buying, leasing, or controlling a property at a lower cost and then using it in a way that earns a higher return.
+
 ## Categories of Real Estate Arbitrage
 
 1. House Flipping - House flipping is a simple concept to understand. You buy an outdated, sometimes unlivable house, and renovate it up to modern standards. Your work, often called “sweat equity,” is what makes the home shine, and what allows you to walk away with a profit.
